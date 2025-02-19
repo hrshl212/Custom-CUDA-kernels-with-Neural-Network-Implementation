@@ -1,0 +1,23 @@
+# ninja log v5
+0	51684	1739316011734703407	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	52432	1739351957686298889	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+29	53096	1739354129135730585	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	53142	1739354769682623191	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	52760	1739354874079026558	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+29	54852	1739369767579664290	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	53302	1739397878513418780	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	53047	1739398351956378446	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+27	52714	1739866344862294455	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	53308	1739866940296079816	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	52510	1739867956902094450	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+28	52631	1739868110830549809	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+27	53381	1739868228293897216	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+29	52749	1739868438521672251	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+26	52730	1739868956042480480	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+28	52372	1739869200512278912	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+28	52381	1739869336423714486	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+27	53487	1739869437252034849	/home/harshal/my_codes/AttentionMechanism/build/temp.linux-x86_64-cpython-312/attention_cuda.o	bfa5316da90f00c
+10	52017	1739936290827821046	/home/harshal/my_codes/SimpleNN/build/temp.linux-x86_64-cpython-312/simplenn_cuda.o	b268ae1682b15049
+28	51903	1739939192795765907	/home/harshal/my_codes/SimpleNN/build/temp.linux-x86_64-cpython-312/simplenn_cuda.o	b268ae1682b15049
+30	51967	1739945334738077897	/home/harshal/my_codes/SimpleNN/build/temp.linux-x86_64-cpython-312/simplenn_cuda.o	cff273687cd4ed9
+27	52781	1739947951245953825	/home/harshal/my_codes/SimpleNN/build/temp.linux-x86_64-cpython-312/simplenn_cuda.o	cff273687cd4ed9
